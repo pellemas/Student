@@ -12,6 +12,8 @@ public class StudentArray {
 
         for (int i = 0; i<studentArray.length; i++)
             System.out.println("Name of the student at index " + i + " is " + studentArray[i].getstudName());
+
+        System.out.println("Hello");
     }
 
 
