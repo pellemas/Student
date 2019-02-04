@@ -19,6 +19,8 @@ public class StudentArray {
         System.out.println("This will be pulled from git");
 
         System.out.println("This has been added in the new branch");
+        
+        System.out.println("This will be fetched and merged");
     }
 
 
